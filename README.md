@@ -1,2 +1,1 @@
-# mavenApp-repo
-maven by product code
+# maven-etech-application
